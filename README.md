@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammedyasars/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/muhammedyasars/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
