@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhammedyasars/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muhammedyasars/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammedyasars/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
@@ -56,5 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
