@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
+| [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammedyasars/Leetcode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
