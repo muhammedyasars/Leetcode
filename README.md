@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muhammedyasars/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/muhammedyasars/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammedyasars/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammedyasars/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/muhammedyasars/Leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammedyasars/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammedyasars/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammedyasars/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/muhammedyasars/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
