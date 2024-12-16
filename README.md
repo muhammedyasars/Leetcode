@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammedyasars/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammedyasars/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/muhammedyasars/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/muhammedyasars/Leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedyasars/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/muhammedyasars/Leetcode/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/muhammedyasars/Leetcode/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedyasars/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
