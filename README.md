@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/muhammedyasars/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammedyasars/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/muhammedyasars/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammedyasars/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
@@ -52,15 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/muhammedyasars/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/muhammedyasars/Leetcode/tree/master/0136-single-number) |
 ## Stack
 |  |
