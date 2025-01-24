@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/muhammedyasars/Leetcode/tree/master/0070-climbing-stairs) |
+| [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 ## Simulation
 |  |
 | ------- |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammedyasars/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
