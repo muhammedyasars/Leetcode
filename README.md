@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammedyasars/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/muhammedyasars/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/muhammedyasars/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhammedyasars/Leetcode/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammedyasars/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/muhammedyasars/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedyasars/Leetcode/tree/master/0217-contains-duplicate) |
