@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/muhammedyasars/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1944-truncate-sentence](https://github.com/muhammedyasars/Leetcode/tree/master/1944-truncate-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammedyasars/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/muhammedyasars/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/muhammedyasars/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/muhammedyasars/Leetcode/tree/master/1944-truncate-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammedyasars/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/muhammedyasars/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammedyasars/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammedyasars/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
