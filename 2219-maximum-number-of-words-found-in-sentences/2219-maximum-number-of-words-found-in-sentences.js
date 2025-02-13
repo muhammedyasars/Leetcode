@@ -3,9 +3,7 @@
  * @return {number}
  */
 var mostWordsFound = function(sentences) {
-    let a=sentences
-    let b=a.map(a=>a.split(' ').length)
-    return Math.max(...b)
+ return Math.max(...sentences.map(item=> item.split(' ').length))
     
     
 };
