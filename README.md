@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/muhammedyasars/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedyasars/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/muhammedyasars/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/muhammedyasars/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
