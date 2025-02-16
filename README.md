@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedyasars/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammedyasars/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedyasars/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedyasars/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Binary Search
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/muhammedyasars/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedyasars/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/muhammedyasars/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/muhammedyasars/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhammedyasars/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
