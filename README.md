@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/muhammedyasars/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/muhammedyasars/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/muhammedyasars/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhammedyasars/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/muhammedyasars/Leetcode/tree/master/3371-harshad-number) |
