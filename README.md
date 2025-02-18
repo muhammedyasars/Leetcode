@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammedyasars/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/muhammedyasars/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/muhammedyasars/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/muhammedyasars/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammedyasars/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/muhammedyasars/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/muhammedyasars/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/muhammedyasars/Leetcode/tree/master/1160-letter-tile-possibilities) |
