@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/muhammedyasars/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/muhammedyasars/Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/muhammedyasars/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/muhammedyasars/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedyasars/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/muhammedyasars/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/muhammedyasars/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/muhammedyasars/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedyasars/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/muhammedyasars/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/muhammedyasars/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/muhammedyasars/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Backtracking
