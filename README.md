@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/muhammedyasars/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/muhammedyasars/Leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/muhammedyasars/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/muhammedyasars/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/muhammedyasars/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/muhammedyasars/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedyasars/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
