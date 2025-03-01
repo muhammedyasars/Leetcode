@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedyasars/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammedyasars/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammedyasars/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/muhammedyasars/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/muhammedyasars/Leetcode/tree/master/0941-sort-array-by-parity) |
