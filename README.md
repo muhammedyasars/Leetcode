@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedyasars/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammedyasars/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedyasars/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammedyasars/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedyasars/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammedyasars/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/muhammedyasars/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/muhammedyasars/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## String Matching
 |  |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/muhammedyasars/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
