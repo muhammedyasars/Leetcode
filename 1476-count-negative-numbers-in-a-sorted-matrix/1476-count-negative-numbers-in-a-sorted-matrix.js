@@ -3,6 +3,5 @@
  * @return {number}
  */
 var countNegatives = function(grid) {
-    let arr=grid.flat(Infinity);
-    return arr.filter((num)=>num<0).length
+    return grid.flat(Infinity).filter((num)=>num<0).length
 };
