@@ -3,13 +3,13 @@
  * @return {boolean}
  */
 var divideArray = function(nums) {
-    let freq = {};
+    let res = {};
     
     for (let num of nums) {
-        freq[num] = (freq[num] || 0) + 1;
+        res[num] = (res[num]+1 || 1);
     }
 
-    for (let count of Object.values(freq)) {
+    for (let count of Object.values(res)) {
         if (count % 2 !== 0) {
             return false;
         }
