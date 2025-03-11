@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedyasars/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedyasars/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/muhammedyasars/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/muhammedyasars/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/muhammedyasars/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/muhammedyasars/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/muhammedyasars/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
 | ------- |
