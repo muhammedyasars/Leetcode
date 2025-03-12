@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/muhammedyasars/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammedyasars/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/muhammedyasars/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedyasars/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/muhammedyasars/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedyasars/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedyasars/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/muhammedyasars/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/muhammedyasars/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedyasars/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/muhammedyasars/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muhammedyasars/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedyasars/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/muhammedyasars/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedyasars/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/muhammedyasars/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
