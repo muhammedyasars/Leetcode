@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/muhammedyasars/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammedyasars/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedyasars/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedyasars/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/muhammedyasars/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/muhammedyasars/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/muhammedyasars/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/muhammedyasars/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedyasars/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/muhammedyasars/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedyasars/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/muhammedyasars/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedyasars/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
