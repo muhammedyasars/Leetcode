@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/muhammedyasars/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/muhammedyasars/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/muhammedyasars/Leetcode/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/muhammedyasars/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedyasars/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/muhammedyasars/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammedyasars/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/muhammedyasars/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/muhammedyasars/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/muhammedyasars/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammedyasars/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/muhammedyasars/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
