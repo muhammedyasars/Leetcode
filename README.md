@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedyasars/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/muhammedyasars/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/muhammedyasars/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/muhammedyasars/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/muhammedyasars/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/muhammedyasars/Leetcode/tree/master/1044-find-common-characters) |
 | [1160-letter-tile-possibilities](https://github.com/muhammedyasars/Leetcode/tree/master/1160-letter-tile-possibilities) |
