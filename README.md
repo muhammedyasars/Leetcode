@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammedyasars/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/muhammedyasars/Leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/muhammedyasars/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/muhammedyasars/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/muhammedyasars/Leetcode/tree/master/3447-clear-digits) |
 ## Math
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/muhammedyasars/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/muhammedyasars/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/muhammedyasars/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammedyasars/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
