@@ -328,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/muhammedyasars/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/muhammedyasars/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
